@@ -1,0 +1,9 @@
+:root {
+  --skin-color: #ec1839;
+}
+
+.home .home-img img {
+  width: 100%;
+
+  background: url('/Imgs/11111.png');
+}
